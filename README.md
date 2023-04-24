@@ -16,7 +16,6 @@
 
   <p align="center">
     I completed this project to improve my skills! <br />
-    <a href="https://friendly-pare-03979d.netlify.app/">Demo Site</a>
     <br />
   </p>
 </div>
