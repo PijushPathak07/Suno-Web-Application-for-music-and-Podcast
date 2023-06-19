@@ -1,27 +1,5 @@
 <div id="top"></div>
 
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://getir.com">
-    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" alt="spotify-logo" width="220" height="70">
-  </a>
-
-  <h3 align="center">Spotify.com Clone</h3>
-
-  <p align="center">
-    I completed this project to improve my skills! <br />
-    <br />
-  </p>
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -48,14 +26,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![getir com-clon-pw](https://user-images.githubusercontent.com/57539683/152556644-f57295ee-3f3d-4c83-956c-cfcbe3c763a6.png)
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
